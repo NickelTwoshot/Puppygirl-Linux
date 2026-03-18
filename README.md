@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/NickelTwoshot/Puppygirl-Linux/blob/main/logo/PuppygirlLinux.png?raw=true" alt="Puppygirl Linux Logo"/>
+</p>
+
+
 # Puppygirl-Linux
 A Linux distro (based on arch btw) For puppygirl's, By a puppygirl! :33
 
